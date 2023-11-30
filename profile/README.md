@@ -8,3 +8,4 @@ OpenPilot-Hub is an organization dedicated to driving innovation in the field of
 
 Our vision is to create a world where every developer, regardless of their experience level or background, has access to top-tier tools and resources to create, innovate, and solve complex problems.
 
+[More >>](https://github.com/openpilot-hub/.github/blob/main/README.md)
